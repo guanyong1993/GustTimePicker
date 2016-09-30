@@ -1,0 +1,13 @@
+{
+  "name": "GustTimePicker",
+  "version": "1.0.0",
+  "description": "A full browser compatible form time picker solution",
+  "keywords": [
+    "gustTimePicker",
+    "gust",
+    "time picker",
+    "Custom time picker"
+  ],
+  "author": "GuanYong",
+  "homepage": "https://github.com/guanyong1993/"
+}
